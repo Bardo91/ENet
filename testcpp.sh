@@ -1,0 +1,1 @@
+./caffe-enet/build/examples/ENet_with_C++/test_segmentation final_model_weights/bn_conv_merged_model.prototxt final_model_weights/bn_conv_merged_weights.caffemodel example_image/munich_000000_000019_leftImg8bit.png scripts/cityscapes19.png

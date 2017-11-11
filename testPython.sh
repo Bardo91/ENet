@@ -1,0 +1,1 @@
+python scripts/test_segmentation.py 	--model prototxts/enet_deploy_final.prototxt --weights enet_weights_zoo/cityscapes_weights.caffemodel --colours scripts/cityscapes19.png --input_image example_image/munich_000000_000019_leftImg8bit.png --out_dir example_image/
